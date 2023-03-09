@@ -1,0 +1,23 @@
+body {
+    background:#FFD8BE;
+}
+    h1 {
+  background-color: #FFFACD;
+  color: #E097CA;
+        /*text-align: right;*/
+        text-align: center;
+}
+img {
+    max-width:200%;
+}
+ul li {
+    color: red;
+    font-weight: bold;
+    font-size: 2em;    
+}
+
+@media only screen and (max-width: 600px) {
+body {
+    background:#FFD8BE;
+}
+}
